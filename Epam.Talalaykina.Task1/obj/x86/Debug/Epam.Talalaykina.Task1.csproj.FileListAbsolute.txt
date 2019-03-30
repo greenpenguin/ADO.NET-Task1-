@@ -1,0 +1,35 @@
+/Users/elizavetatalalajkina/Projects/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/bin/Debug/Epam.Talalaykina.Task1.exe
+/Users/elizavetatalalajkina/Projects/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/bin/Debug/Epam.Talalaykina.Task1.pdb
+/Users/elizavetatalalajkina/Projects/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.csprojResolveAssemblyReference.cache
+/Users/elizavetatalalajkina/Projects/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.csproj.CoreCompileInputs.cache
+/Users/elizavetatalalajkina/Projects/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.exe
+/Users/elizavetatalalajkina/Projects/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.pdb
+C:/Users/TalalaykinaEI/Downloads/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/bin/Debug/Epam.Talalaykina.Task1.exe
+C:/Users/TalalaykinaEI/Downloads/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/bin/Debug/Epam.Talalaykina.Task1.pdb
+C:/Users/TalalaykinaEI/Downloads/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.csprojResolveAssemblyReference.cache
+C:/Users/TalalaykinaEI/Downloads/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.csproj.CoreCompileInputs.cache
+C:/Users/TalalaykinaEI/Downloads/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.exe
+C:/Users/TalalaykinaEI/Downloads/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.pdb
+/Users/elizavetatalalajkina/Desktop/untitled folder/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/bin/Debug/Epam.Talalaykina.Task1.exe
+/Users/elizavetatalalajkina/Desktop/untitled folder/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/bin/Debug/Epam.Talalaykina.Task1.pdb
+/Users/elizavetatalalajkina/Desktop/untitled folder/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.csprojResolveAssemblyReference.cache
+/Users/elizavetatalalajkina/Desktop/untitled folder/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.csproj.CoreCompileInputs.cache
+/Users/elizavetatalalajkina/Desktop/untitled folder/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.exe
+/Users/elizavetatalalajkina/Desktop/untitled folder/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.pdb
+C:/Users/ShlupkinPV/Downloads/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/bin/Debug/Epam.Talalaykina.Task1.exe
+C:/Users/ShlupkinPV/Downloads/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/bin/Debug/Epam.Talalaykina.Task1.pdb
+C:/Users/ShlupkinPV/Downloads/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.csproj.CoreCompileInputs.cache
+C:/Users/ShlupkinPV/Downloads/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.exe
+C:/Users/ShlupkinPV/Downloads/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.pdb
+/Users/elizavetatalalajkina/Downloads/untitled folder 2/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/bin/Debug/Epam.Talalaykina.Task1.exe
+/Users/elizavetatalalajkina/Downloads/untitled folder 2/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/bin/Debug/Epam.Talalaykina.Task1.pdb
+/Users/elizavetatalalajkina/Downloads/untitled folder 2/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.csprojResolveAssemblyReference.cache
+/Users/elizavetatalalajkina/Downloads/untitled folder 2/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.csproj.CoreCompileInputs.cache
+/Users/elizavetatalalajkina/Downloads/untitled folder 2/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.exe
+/Users/elizavetatalalajkina/Downloads/untitled folder 2/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/Epam.Talalaykina.Task1/obj/x86/Debug/Epam.Talalaykina.Task1.pdb
+C:\Users\TalalaykinaEI\Downloads\Epam.Talalaykina.Task1(v.2)\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\bin\Debug\Epam.Talalaykina.Task1.exe
+C:\Users\TalalaykinaEI\Downloads\Epam.Talalaykina.Task1(v.2)\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\bin\Debug\Epam.Talalaykina.Task1.pdb
+C:\Users\TalalaykinaEI\Downloads\Epam.Talalaykina.Task1(v.2)\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\obj\x86\Debug\Epam.Talalaykina.Task1.csprojResolveAssemblyReference.cache
+C:\Users\TalalaykinaEI\Downloads\Epam.Talalaykina.Task1(v.2)\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\obj\x86\Debug\Epam.Talalaykina.Task1.csproj.CoreCompileInputs.cache
+C:\Users\TalalaykinaEI\Downloads\Epam.Talalaykina.Task1(v.2)\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\obj\x86\Debug\Epam.Talalaykina.Task1.exe
+C:\Users\TalalaykinaEI\Downloads\Epam.Talalaykina.Task1(v.2)\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\Epam.Talalaykina.Task1\obj\x86\Debug\Epam.Talalaykina.Task1.pdb
